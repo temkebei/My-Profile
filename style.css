@@ -68,30 +68,6 @@ padding: 10px 25px;
     border-radius: 5px;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
-    
-}
-
-.content{
-    width: 70%;
-    float: left;
-}
-
-.topcontent{
-    background-color: #fff;
-    border-radius: 5px;
-    -moz-border-radius:5px;
-    -webkit-border-radius:5px;
-    padding: 3% 5%;
-    margin-top: 2%
-}
-
-.bottomcontent{
-    background-color: #fff;
-    border-radius: 5px;
-    -moz-boder-radius:5px;
-    -webkit-border-radius:5px;
-    padding: 3% 5%;
-    margin: 2%;
 }
 
 .top-sidebar{
@@ -138,4 +114,27 @@ padding: 10px 25px;
 .MainFooter p{
     width: 92%;
     margin: 2% auto;
+}
+
+.content{
+    width: 70%;
+    float: left;
+}
+
+.topcontent{
+    background-color: #fff;
+    border-radius: 5px;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    padding: 3% 5%;
+    margin-top: 2%
+}
+
+.bottomcontent{
+    background-color: #fff;
+    border-radius: 5px;
+    -moz-boder-radius:5px;
+    -webkit-border-radius:5px;
+    padding: 3% 5%;
+    margin: 2%;
 }
